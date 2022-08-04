@@ -2,7 +2,7 @@
 
 - 🏙 São Paulo
 - 👨🏻‍💻 Web Developer Jr
-- ✍🏻 Estudando JavaScript
+- ✍🏻 Estudando React Js
 
 ##
 
