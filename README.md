@@ -1,4 +1,3 @@
-<img align="right" alt="Victor" height="300" margin="10" width="300" src="https://front-end-beta.netlify.app/static/media/Victinho.aaf432afe06cf18512d0.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4e71ee&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Soares!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
@@ -9,6 +8,8 @@
 <p align="left">Hoje em dia estou cursando a faculdade de Análise e Desenvolvimento de sistemas, em busca de conseguir uma visão geral de sistemas e me tornar um programador de sucesso.</p>
 
 ##
+
+<img align="right" alt="Victor" height="250" margin="10" width="250" src="https://front-end-beta.netlify.app/static/media/Victinho.aaf432afe06cf18512d0.gif">
 
 <h3 align="left">Conecte-se comigo!</h3>
 
