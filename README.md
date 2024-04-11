@@ -7,6 +7,11 @@
 
 <p align="left">Hoje em dia estou cursando a faculdade de Análise e Desenvolvimento de sistemas, em busca de conseguir uma visão geral de sistemas e me tornar um programador de sucesso.</p>
 
+  - 🇧🇷 Brasil
+  - 🖥️ Acesse meu portfólio em <a href='https://victorsoaresportfolio.netlify.app/'>victorsoaresportfolio</a>
+  - ✉️ Contate-me em <a href='mailto:victoorsoaressq@gmail.com'>victoorsoaressq@gmail.com</a>
+  - 🚀 Atualmente cursando Análise e Desenvolvimento de Sistemas
+
 ##
 
 <img align="right" alt="Victor" height="250" margin="10" width="250" src="https://front-end-beta.netlify.app/static/media/Victinho.aaf432afe06cf18512d0.gif">
