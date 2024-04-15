@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=4e71ee&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Soares!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=4e71ee&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Soares!)](https://git.io/typing-svg)
 
 <p align="left">Olá! Meu nome é Victor e sou desenvolvedor Front-End, gosto de ver o mundo através de linhas de códigos, com bastante estudo e criatividade crio e copio páginas web em busca de me tornar um especialista em Front-End.</p>
   
