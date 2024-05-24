@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=600&size=25&pause=1000&color=4e71ee&random=false&width=435&height=40&lines=Ol%C3%A1%2C+eu+sou+o+Victor+Soares!)](https://git.io/typing-svg)
 
-<p align="left">Olá! Meu nome é Victor e sou desenvolvedor Front-End, gosto de ver o mundo através de linhas de códigos, com bastante estudo e criatividade crio e copio páginas web em busca de me tornar um especialista em Front-End.</p>
+<p align="left">Olá! Meu nome é Victor e sou desenvolvedor Front-End, gosto de ver o mundo através de linhas de códigos, com bastante estudo e criatividade crio e copio APPs em busca de me tornar um especialista em IOS.</p>
   
-<p align="left">Utilizo linguagens como HTML, CSS, JavaScript para criar meus projetos e trabalhos. Com experiência em biblioteca React e pre-processador SASS, para criar as mais diversas páginas web.</p>
+<p align="left">Utilizo linguagens como Swift, SwiftUI, JavaScript para criar meus projetos e trabalhos. Com experiência em biblioteca React e pre-processador SASS, para criar as mais diversas páginas web.</p>
 
 <p align="left">Hoje em dia estou cursando a faculdade de Análise e Desenvolvimento de sistemas, em busca de conseguir uma visão geral de sistemas e me tornar um programador de sucesso.</p>
 
