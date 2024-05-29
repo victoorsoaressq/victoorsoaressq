@@ -30,11 +30,11 @@
   <img align="center" height="50" width="50" src="./icons/ios.svg" target="_blank">
   <img align="center" height="47" width="47" src="./icons/swift2.png">
   <img align="center" height="47" width="47" src="./icons/swiftui.png">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="React" height="40" width="40" src="https://sass-lang.com/assets/img/styleguide/seal-color.png">
+  <img align="center" alt="HTML" height="40" width="50" src="./icons/html5.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="./icons/css3.svg">
+  <img align="center" alt="Js" height="40" width="50" src="./icons/javascript.svg">
+  <img align="center" alt="React" height="40" width="50" src="./icons/react.svg">
+  <img align="center" alt="Sass" height="40" width="40" src="./icons/lass.png">
 </div>
   
 
