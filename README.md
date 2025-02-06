@@ -27,8 +27,8 @@
 <h3 align="left">Habilidades</h3>
 
 <div style="display: inline_block">
-  <img align="center" height="50" width="50" src="./icons/java.svg" target="_blank">
-  <img align="center" height="50" width="50" src="./icons/node.png" target="_blank">
+  <img align="center" height="36" width="36" src="./icons/java.svg" target="_blank">
+  <img align="center" height="40" width="40" src="./icons/node.png" target="_blank">
   <img align="center" height="50" width="50" src="./icons/ios.svg" target="_blank">
   <img align="center" height="47" width="47" src="./icons/swift2.png">
   <img align="center" height="47" width="47" src="./icons/swiftui.png">
